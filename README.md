@@ -92,6 +92,7 @@ for sentence in sentences:
 
 
 ### Synonyms and Antonyms for verbs in each sentence :
+![2](https://github.com/Vineesh-AI-DS/Ex-6--AAI/assets/93427254/60f5988d-54bf-4d97-8f5c-9257aa179543)
 
 
 ## Result:
